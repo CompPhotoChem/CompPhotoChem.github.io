@@ -3,13 +3,13 @@ layout: default
 title: About
 ---
 
-## About ESTML 2022
+## People
 
-The ESTQML 2023 conference is organized by the University of Luxembourg (Prof. Alexandre Tkatchenko, Dr. Carolin Müller, and Adil Kabylda) and Aalto University (Prof. Patrick Rinke, Dr. Hilda Sandström, and Dr. Ransell D'Souza).
-
-The workshop takes place in XXX at the YYY Hotel from 17th to 21st of April 2023.
-
-This conference brings together researchers from molecular dynamics, quantum effects, and machine learning in materials science and computational chemistry.
+Carolin Müller is an xxx at the University yyy in the department of zzz.
+She received his B. Sc./M. Sc. in Chemistry from the Friedrich Schiller University in Jena.
+She completed her doctorate in 2021 with *summa cum laude* at the Friedrich Schiller University Jena under supervision of Benjamin Dietzek.
+Her research group at xxx develops new methods at the intersection of chemistry, physics and data science to ... . 
+Key research areas in the group include  ... . 
+Carolin is recipient of the Albert-Weller award of the German Chemical Society (GDCh) and German Bunsen-Society (DBG), and the PhD award from the Faculty of Chemistry and Earth Sciences of the Friedrich Schiller University Jena.
 
 _________________
-*The website and logo has been created by Carolin Müller. *
