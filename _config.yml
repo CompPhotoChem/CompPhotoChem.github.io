@@ -1,0 +1,39 @@
+title: CompPhotoChem Group
+description: Computational Photochemistry Group at xxx
+
+url: 
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+# Header Option
+# header: large
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: Now
+    url: /now
+  - title: About Me
+    url: /about
+  - title: Publications
+    url: /publications
+  - title: Teaching
+    url: /teaching
+  - title: Contact
+    url: /contact
+
+social:
+  github: CompPhotoChem
+  twitter:  
+  facebook:  
+  email: carolin.mueller@ext.uni.lu
+  linkedin:  
+
+google_analytics: "UA-58263416-1"
+
+
