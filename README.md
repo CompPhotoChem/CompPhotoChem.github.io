@@ -1,2 +1,2 @@
-# -CompPhotoChem.github.io
+# CompPhotoChem.github.io
 personal website
